@@ -1,0 +1,13 @@
+# Checkout worker profile: Windows x64, CPython 3.12.3.
+# Install the paired checkout client and Python FFI wheel separately.
+av==19.0.2
+cloudpickle==3.1.2
+flatbuffers==25.12.19
+grpcio==1.85.1
+grpcio-tools==1.85.1
+iceoryx2==0.10.0
+numpy==2.5.5
+protobuf==7.36.2
+psutil==7.2.2
+setuptools==84.2.1
+typing-extensions==4.16.0

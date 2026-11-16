@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "metadata": {"name": "docs-echo"},
+  "nodes": [{"id": "echo", "node_type": "PassThrough"}],
+  "connections": []
+}

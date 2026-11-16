@@ -1,0 +1,12 @@
+[plugin]
+name = "docs-transform"
+version = "0.1.0"
+language = "python"
+description = "A configured text transform loaded from Python source"
+license = "MIT"
+
+[python]
+entry_module = "docs_transform"
+node_types = ["DocsSourceTransform"]
+requires = ["packaging==25.0"]
+module_root = "."

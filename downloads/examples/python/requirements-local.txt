@@ -1,0 +1,13 @@
+# Resolved on Windows x64, CPython 3.12.3, 2026-11-15.
+# Native wheel / editable client is supplied separately; see Installation.
+av==19.0.2
+cloudpickle==3.1.2
+grpcio==1.85.1
+grpcio-tools==1.85.1
+iceoryx2==0.9.0
+numpy==2.5.5
+protobuf==7.36.2
+psutil==7.2.2
+remotemedia-client==0.2.0
+setuptools==84.2.1
+typing-extensions==4.16.0
